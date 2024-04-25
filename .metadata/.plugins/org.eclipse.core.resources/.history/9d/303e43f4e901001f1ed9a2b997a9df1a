@@ -1,0 +1,9 @@
+
+
+	Singleton là 1 mẫu thiết kế sáng tạo nhằm đảm bảo 1 lớp chỉ có 1 thực thể 
+	duy nhất cung cấp 1 điểm truy cập " toàn cầu " đến thực thể đó. Nói 1 cách 
+	đơn giản, điều này giống như đảm bảo rằng chỉ có 1 bản sao duy nhất của
+	1 đối tượng cụ thể trong chương trình và ta có thể truy cập đối tượng đó
+	từ bất cứ đâu trong code của mình.
+	
+	

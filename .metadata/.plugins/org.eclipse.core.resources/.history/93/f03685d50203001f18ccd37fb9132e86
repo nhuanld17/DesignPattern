@@ -1,0 +1,11 @@
+package Usage;
+
+import java.sql.Connection;
+
+public class DatabaseConnection {
+	// Biến static chứa thể hiện duy nhất của lớp
+	private static DatabaseConnection instance;
+	
+	// Khởi tạo kết nối với cơ sở dữ liệu
+	private Connection connection;
+}

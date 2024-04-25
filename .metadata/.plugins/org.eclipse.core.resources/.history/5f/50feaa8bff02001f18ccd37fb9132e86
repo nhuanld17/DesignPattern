@@ -1,0 +1,8 @@
+package Solution;
+
+public class Clipboard {
+	private String value;
+	
+	private static Clipboard clipboard = null;
+	
+}

@@ -1,0 +1,13 @@
+package Problem;
+
+public class Clipboard {
+	private String value;
+	
+	public void copy(String value) {
+		this.value = value;
+	}
+	
+	public void paste() {
+		return value;
+	}
+}

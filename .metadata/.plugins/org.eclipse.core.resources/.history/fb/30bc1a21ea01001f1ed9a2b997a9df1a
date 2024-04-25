@@ -1,0 +1,9 @@
+package Problem;
+
+public class Clipboard {
+	private String value;
+	
+	public void copy(String value) {
+		
+	}
+}

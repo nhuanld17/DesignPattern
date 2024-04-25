@@ -1,0 +1,18 @@
+package Solution;
+
+public class Clipboard {
+	private String value;
+	
+	private static Clipboard clipboard = null;
+	
+	
+	// Private constructor để ngăn việc khởi tạo từ bên ngoài
+	// Constructor của 1 lớp được đặt là riêng tư để không cho phép các lớp khác
+	// tạo đối tượng từ lớp đó, từ đó kiểm soát việc khởi tạo lớp từ bên ngoài
+	private Clipboard() {
+		
+	}
+	
+	
+	
+}

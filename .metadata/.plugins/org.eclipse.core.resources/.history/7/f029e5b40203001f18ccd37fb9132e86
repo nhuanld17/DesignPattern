@@ -1,0 +1,5 @@
+package Usage;
+
+public class DatabaseConnection {
+	// Biến static chứa thể hiện duy nhất của lớp
+}

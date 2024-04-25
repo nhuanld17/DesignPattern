@@ -1,0 +1,17 @@
+package Solution;
+
+public class Clipboard {
+	private String value;
+	
+	private static Clipboard clipboard = null;
+	
+	
+	// Private constructor để ngăn việc khởi tạo từ bên ngoài
+	// Constructor của 1 lớp 
+	private Clipboard() {
+		
+	}
+	
+	
+	
+}
