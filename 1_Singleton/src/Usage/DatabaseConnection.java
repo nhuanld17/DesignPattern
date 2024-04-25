@@ -4,6 +4,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+// Quản lý tài nguyên chung
+
 public class DatabaseConnection {
 	// Biến static chứa thể hiện duy nhất của lớp
 	private static DatabaseConnection instance;
